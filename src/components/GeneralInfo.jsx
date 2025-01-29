@@ -1,4 +1,3 @@
-import React from "react";
 
 const GeneralInfo = ({ data, onUpdate }) => {
     const handleChange = (e) => {
